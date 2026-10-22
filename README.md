@@ -1,6 +1,6 @@
 # Materi: Array dan Object
 
-Membuat program javascript untuk mendalami materi array dan object beserta kombinasinya.
+Membuat program javascript untuk mendalami materi dan cara mengakses array dan object beserta kombinasinya.
 
 ## Latihan Soal
 
